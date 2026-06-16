@@ -5,4 +5,4 @@ Hololens2 + Unity3d 编辑器版本 2019.4.10f1
 
 数据流:
 ![Algorithm Figure](registration3.png)
-<img src="registration3" alt="registration3" width="600">
+<img src="registration3.png" alt="registration3.png" width="600">
